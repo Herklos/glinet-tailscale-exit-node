@@ -18,4 +18,5 @@ Then add `--advertise-exit-node` to `tailscale up`, for example:
 ```
 
 Then reboot the GLINET.
+
 Repeat these steps after each firmware upgrade.
